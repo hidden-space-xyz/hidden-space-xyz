@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:8b5cf6&text=Hidden%20Space&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=ffffff&desc=Privacy%20%7C%20Security%20%7C%20Free%20Software&descAlign=50&descAlignY=60&descSize=16" alt="Header" />
 
 <a href="https://github.com/hidden-space-xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&center=true&vCenter=true&width=780&lines=Solo+developer+building+useful+software;Privacy-conscious+and+security-minded;Free+software%2C+self-hosting+and+open+systems;.NET+%2B+Vue+%2B+PostgreSQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&center=true&vCenter=true&width=880&lines=Data+is+the+pollution+problem+of+the+information+age+-+Bruce+Schneier;Privacy+is+what+allows+us+to+determine+who+we+are+and+who+we+want+to+be+-+Edward+Snowden" alt="Typing animation" />
 </a>
 
 <br />
@@ -27,13 +27,15 @@
 
 ---
 
-## About me
+# 🧑‍💻 About me
 
-I'm a solo developer building useful, maintainable and self-hostable software. I believe software should serve people instead of exploiting them, and that belief shapes how I design systems from the first commit — not as a feature bolted on at the end.
+I'm a developer building useful, maintainable and self-hostable software, with a strong focus on privacy, security and free software principles.
 
-My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core and PostgreSQL on the backend, Vue 3 + TypeScript SPAs on the frontend, and Docker + nginx for deployment. I care about the craft around the code as much as the code itself: clean architecture, readable and documented codebases, reproducible environments, and removing complexity that doesn't earn its place.
+My work is mostly full-stack: ASP.NET Core, Entity Framework Core and PostgreSQL on the backend; Vue 3, TypeScript and Vite on the frontend; Docker and nginx for deployment. I enjoy working across the whole stack.
 
-## What I care about
+I care about building projects that are easy to understand, easy to run and sustainable to maintain. That means clean architecture, readable code, reproducible environments, sensible defaults, and removing complexity that does not justify itself.
+
+# 🧭 What I care about
 
 <table>
   <tr>
@@ -61,7 +63,9 @@ My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core a
   </tr>
 </table>
 
-## Main stack
+<br />
+
+# 🛠️ Main stack
 
 <div align="center">
 
@@ -82,14 +86,16 @@ My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core a
 
 </div>
 
-## Featured projects
+<br />
+
+# 🚀 Featured projects
 
 <table>
   <tr>
     <td width="58%">
       <h3><a href="https://github.com/hidden-space-xyz/CodigoActivo">CodigoActivo</a></h3>
       <p>
-        Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association based in León.
+        Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association.
       </p>
       <p>
         This is my current priority and the best representation of my active stack: ASP.NET Core, Entity Framework Core, PostgreSQL, Vue 3, TypeScript, Vite, Docker and nginx.
@@ -108,10 +114,10 @@ My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core a
     <td width="58%">
       <h3><a href="https://github.com/hidden-space-xyz/BackupZCrypt">BackupZCrypt</a></h3>
       <p>
-        Security-oriented backup and encryption tool built with C# and .NET.
+        Security-oriented desktop application for backup and encryption, built with C#, .NET and Avalonia.
       </p>
       <p>
-        It explores privacy-preserving tooling, layered architecture, backup orchestration, chunk-based file processing, encryption workflows, compression and desktop software.
+        It explores privacy-preserving tooling, layered architecture, backup orchestration, chunk-based file processing, encryption workflows, compression and cross-platform desktop software.
       </p>
       <p>
         <strong>Focus:</strong> application/domain separation, file handling, cryptographic workflow design, compression, manifests, maintainable service boundaries and data ownership.
@@ -127,7 +133,7 @@ My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core a
     <td width="58%">
       <h3><a href="https://github.com/hidden-space-xyz/ToxicFishing">ToxicFishing</a></h3>
       <p>
-        Lightweight C# automation project for World of Warcraft fishing, based on screen detection and input automation.
+        Lightweight desktop application built with C# and WPF that automates World of Warcraft fishing, based on screen detection and input automation.
       </p>
       <p>
         It is more experimental, but shows work with modular C# projects, computer vision concepts, activity tracking, audio/input handling and automation logic.
@@ -143,6 +149,21 @@ My day-to-day work is full-stack: ASP.NET Core APIs with Entity Framework Core a
     </td>
   </tr>
 </table>
+
+<br />
+
+# 🤝 Open to collaboration
+
+I'm always open to collaborating on thoughtful projects, especially around privacy, free software, self-hostable systems, and software that’s built with care for the long term.
+
+Whether that means contributing to an existing project, pairing on something new, or helping an open source effort that could use an extra pair of hands, feel free to open an issue or discussion in any of my repositories, or reach out through my GitHub profile if you think we could build something useful together.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration" />
+<img src="https://img.shields.io/badge/Contributions-Welcome-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Contributions welcome" />
+
+</div>
 
 <div align="center">
 
