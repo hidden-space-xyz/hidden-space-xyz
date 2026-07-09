@@ -93,7 +93,7 @@ I care about building projects that are easy to understand, easy to run and sust
 <table>
   <tr>
     <td width="58%">
-      <h3><a href="https://github.com/hidden-space-xyz/CodigoActivo">CodigoActivo</a></h3>
+      <h3><a href="https://github.com/hidden-space-xyz/CodigoActivo">🌐 CodigoActivo</a></h3>
       <p>
         Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association.
       </p>
@@ -112,7 +112,7 @@ I care about building projects that are easy to understand, easy to run and sust
   </tr>
   <tr>
     <td width="58%">
-      <h3><a href="https://github.com/hidden-space-xyz/BackupZCrypt">BackupZCrypt</a></h3>
+      <h3><a href="https://github.com/hidden-space-xyz/BackupZCrypt">🔐 BackupZCrypt</a></h3>
       <p>
         Security-oriented desktop application for backup and encryption, built with C#, .NET and Avalonia.
       </p>
@@ -131,7 +131,7 @@ I care about building projects that are easy to understand, easy to run and sust
   </tr>
   <tr>
     <td width="58%">
-      <h3><a href="https://github.com/hidden-space-xyz/ToxicFishing">ToxicFishing</a></h3>
+      <h3><a href="https://github.com/hidden-space-xyz/ToxicFishing">🎣 ToxicFishing</a></h3>
       <p>
         Lightweight desktop application built with C# and WPF that automates World of Warcraft fishing, based on screen detection and input automation.
       </p>
