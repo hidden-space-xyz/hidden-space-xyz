@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:8b5cf6&text=Hidden%20Space&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=ffffff&desc=Privacy%20%7C%20Security%20%7C%20Free%20Software&descAlign=50&descAlignY=60&descSize=16" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:8b5cf6&text=Hidden%20Space&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=ffffff&desc=Privacy%20%7C%20Security%20%7C%20FOSS&descAlign=50&descAlignY=60&descSize=16" alt="Header" />
 
 <a href="https://github.com/hidden-space-xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&center=true&vCenter=true&width=880&lines=Building+software+that+respects+its+users;Privacy+by+design+%7C+Security+by+default+%7C+Free+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&center=true&vCenter=true&width=880&lines=Building+software+that+respects+its+users;Privacy+by+design+%7C+Security+by+default+%7C+FOSS" alt="Typing animation" />
 </a>
 
 <br />
 
 <img src="https://img.shields.io/badge/Privacy--first-0D1117?style=for-the-badge&logo=proton&logoColor=white" alt="Privacy-first" />
 <img src="https://img.shields.io/badge/Security--minded-1F6FEB?style=for-the-badge&logo=owasp&logoColor=white" alt="Security-minded" />
-<img src="https://img.shields.io/badge/Free%20Software-8B5CF6?style=for-the-badge&logo=gnu&logoColor=white" alt="Free Software" />
+<img src="https://img.shields.io/badge/FOSS-8B5CF6?style=for-the-badge&logo=gnu&logoColor=white" alt="Free and Open Source Software" />
 <img src="https://img.shields.io/badge/Self--hostable-24292F?style=for-the-badge&logo=docker&logoColor=white" alt="Self-hostable" />
 
 </div>
@@ -19,7 +19,7 @@
 
 # 🧑‍💻 About me
 
-I'm a developer focused on building useful, maintainable and self-hostable software, with a particular interest in privacy, security and free software.
+I'm a developer focused on building useful, maintainable and self-hostable software, with a particular interest in privacy, security and FOSS software.
 
 Most of my work spans the full stack: ASP.NET Core, Entity Framework Core and PostgreSQL on the backend; Vue 3, TypeScript and Vite on the frontend; and Docker and nginx for deployment.
 
@@ -145,7 +145,7 @@ I enjoy working across those boundaries rather than treating them as completely 
 
 # 🤝 Open to collaboration
 
-I'm open to contributing to thoughtful projects, particularly around privacy, free software, self-hostable infrastructure and software intended to remain maintainable over the long term.
+I'm open to contributing to thoughtful projects.
 
 That could mean contributing to an existing project, collaborating on something new or helping an open-source project that could benefit from another pair of hands.
 
