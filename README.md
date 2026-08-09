@@ -66,10 +66,10 @@ I enjoy working across those boundaries rather than treating them as completely 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Frontend-Vue%203-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Backend-.NET%20(C%23)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Frontend-Vue%203%20(TypeScript)-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<br />
 <img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Reverse%20Proxy-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
 
