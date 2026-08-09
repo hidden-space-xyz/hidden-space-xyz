@@ -8,20 +8,10 @@
 
 <br />
 
----
-
 <img src="https://img.shields.io/badge/Privacy--first-0D1117?style=for-the-badge&logo=proton&logoColor=white" alt="Privacy-first" />
 <img src="https://img.shields.io/badge/Security--minded-1F6FEB?style=for-the-badge&logo=owasp&logoColor=white" alt="Security-minded" />
 <img src="https://img.shields.io/badge/Free%20Software-8B5CF6?style=for-the-badge&logo=gnu&logoColor=white" alt="Free Software" />
 <img src="https://img.shields.io/badge/Self--hostable-24292F?style=for-the-badge&logo=docker&logoColor=white" alt="Self-hostable" />
-
-<br />
-
-<img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Vue%203-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
 </div>
 
@@ -77,10 +67,9 @@ I enjoy working across those boundaries rather than treating them as completely 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/ORM-Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Frontend-Vue%203-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
 <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Reverse%20Proxy-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
 
@@ -103,9 +92,6 @@ I enjoy working across those boundaries rather than treating them as completely 
       <p>
         <strong>Stack:</strong> ASP.NET Core on .NET 10, Entity Framework Core, PostgreSQL, Vue 3, TypeScript, Vite, Element Plus, TanStack Query, Vue I18n, TipTap, Chart.js, Orval, Docker and nginx.
       </p>
-      <p>
-        <strong>Highlights:</strong> clean-architecture backend, Feature-Sliced frontend, generated typed API client, authentication and account management, automated testing, containerized deployment and a documented self-hosting workflow.
-      </p>
     </td>
     <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/CodigoActivo">
@@ -126,9 +112,6 @@ I enjoy working across those boundaries rather than treating them as completely 
       <p>
         <strong>Stack:</strong> C#, .NET 10 and Avalonia, with FastCDC-style content-defined chunking, authenticated encryption algorithms, Argon2id/Scrypt/PBKDF2 key derivation and Zstandard compression.
       </p>
-      <p>
-        <strong>Highlights:</strong> layered architecture, incremental chunk-based backups, local-only processing, multiple cryptographic strategies, integrity checks, cross-platform archives, automated tests and self-contained builds for Windows, Linux and macOS.
-      </p>
     </td>
     <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/BackupZCrypt">
@@ -148,12 +131,6 @@ I enjoy working across those boundaries rather than treating them as completely 
       </p>
       <p>
         <strong>Stack:</strong> C#, .NET 10, WPF, OpenCV/OpenCvSharp, WASAPI/NAudio and Win32 input.
-      </p>
-      <p>
-        <strong>Highlights:</strong> modular application design, full-screen bobber detection, HSV and template matching, sound-based bite detection, activity reporting, configurable sessions and automated testing — without injecting code into the game or reading its process memory.
-      </p>
-      <p>
-        <em>Game automation may violate the rules or Terms of Service of some servers. The project should only be used where automation is permitted.</em>
       </p>
     </td>
     <td width="42%" valign="middle">
