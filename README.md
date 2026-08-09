@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:8b5cf6&text=Hidden%20Space&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=ffffff&desc=Privacy%20%7C%20Security%20%7C%20Free%20Software&descAlign=50&descAlignY=60&descSize=16" alt="Header" />
 
 <a href="https://github.com/hidden-space-xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&center=true&vCenter=true&width=880&lines=Data+is+the+pollution+problem+of+the+information+age+-+Bruce+Schneier;Privacy+is+what+allows+us+to+determine+who+we+are+and+who+we+want+to+be+-+Edward+Snowden" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&center=true&vCenter=true&width=880&lines=Building+software+that+respects+its+users;Privacy+by+design+%7C+Security+by+default+%7C+Free+software" alt="Typing animation" />
 </a>
 
 <br />
@@ -17,7 +17,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Vue%203-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
@@ -29,11 +29,11 @@
 
 # 🧑‍💻 About me
 
-I'm a developer building useful, maintainable and self-hostable software, with a strong focus on privacy, security and free software principles.
+I'm a developer focused on building useful, maintainable and self-hostable software, with a particular interest in privacy, security and free software.
 
-My work is mostly full-stack: ASP.NET Core, Entity Framework Core and PostgreSQL on the backend; Vue 3, TypeScript and Vite on the frontend; Docker and nginx for deployment. I enjoy working across the whole stack.
+Most of my work spans the full stack: ASP.NET Core, Entity Framework Core and PostgreSQL on the backend; Vue 3, TypeScript and Vite on the frontend; and Docker and nginx for deployment.
 
-I care about building projects that are easy to understand, easy to run and sustainable to maintain. That means clean architecture, readable code, reproducible environments, sensible defaults, and removing complexity that does not justify itself.
+I enjoy working across those boundaries rather than treating them as completely separate disciplines. I care about understandable architecture, readable code, reproducible environments, sensible defaults and keeping complexity proportional to the problem being solved.
 
 # 🧭 What I care about
 
@@ -42,21 +42,21 @@ I care about building projects that are easy to understand, easy to run and sust
     <td width="33%" valign="top">
       <h3>🔒 Privacy</h3>
       <p>
-        Systems that collect the minimum, keep users in control and can run wherever people retain ownership of their own information. 
+        Software should collect only what it genuinely needs and leave users in control of their own information and infrastructure.
       </p>
       <br />
     </td>
     <td width="33%" valign="top">
       <h3>🛡️ Security</h3>
       <p>
-        Secure-by-default design: clear boundaries, reliable authentication flows, reduced attack surface — and security treated as a continuous habit, not a one-off audit.
+        Clear trust boundaries, robust authentication, minimal attack surface and secure defaults should be part of the design from the beginning.
       </p>
       <br />
     </td>
     <td width="33%" valign="top">
       <h3>🔓 Free software</h3>
       <p>
-        Open, transparent and inspectable tools that anyone can study, modify, self-host and adapt to their needs.
+        I value transparent and inspectable software that people can study, modify, self-host and adapt instead of depending on a black box.
       </p>
       <br />
     </td>
@@ -92,57 +92,71 @@ I care about building projects that are easy to understand, easy to run and sust
 
 <table>
   <tr>
-    <td width="58%">
+    <td width="58%" valign="top">
       <h3><a href="https://github.com/hidden-space-xyz/CodigoActivo">🌐 CodigoActivo</a></h3>
       <p>
-        Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association.
+        Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association in León that introduces children and young people to programming and computational thinking.
       </p>
       <p>
-        This is my current priority and the best representation of my active stack: ASP.NET Core, Entity Framework Core, PostgreSQL, Vue 3, TypeScript, Vite, Docker and nginx.
+        The project combines a public website with member accounts and an administrative back-office. It handles events and activities, registrations, dependent minors, participation history, ratings, certificates, announcements, resources, partners, member communication and administrative workflows.
       </p>
       <p>
-        <strong>Focus:</strong> backend API design, SPA frontend architecture, database modelling, generated API clients, admin tooling, deployment, documentation and sustainable project structure.
+        <strong>Stack:</strong> ASP.NET Core on .NET 10, Entity Framework Core, PostgreSQL, Vue 3, TypeScript, Vite, Element Plus, TanStack Query, Vue I18n, TipTap, Chart.js, Orval, Docker and nginx.
+      </p>
+      <p>
+        <strong>Highlights:</strong> clean-architecture backend, Feature-Sliced frontend, generated typed API client, authentication and account management, automated testing, containerized deployment and a documented self-hosting workflow.
       </p>
     </td>
-    <td width="42%">
+    <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/CodigoActivo">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=CodigoActivo&theme=github_dark&hide_border=true" alt="CodigoActivo repository card" />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td width="58%">
+    <td width="58%" valign="top">
       <h3><a href="https://github.com/hidden-space-xyz/BackupZCrypt">🔐 BackupZCrypt</a></h3>
       <p>
-        Security-oriented desktop application for backup and encryption, built with C#, .NET and Avalonia.
+        Cross-platform encrypted backup application designed around efficient, incremental and local-first data protection.
       </p>
       <p>
-        It explores privacy-preserving tooling, layered architecture, backup orchestration, chunk-based file processing, encryption workflows, compression and cross-platform desktop software.
+        Files are divided into content-defined chunks, allowing subsequent backups to process only data that has changed. Backups support authenticated encryption, configurable key derivation, optional compression, integrity verification and portable restores across supported operating systems.
       </p>
       <p>
-        <strong>Focus:</strong> application/domain separation, file handling, cryptographic workflow design, compression, manifests, maintainable service boundaries and data ownership.
+        <strong>Stack:</strong> C#, .NET 10 and Avalonia, with FastCDC-style content-defined chunking, authenticated encryption algorithms, Argon2id/Scrypt/PBKDF2 key derivation and Zstandard compression.
+      </p>
+      <p>
+        <strong>Highlights:</strong> layered architecture, incremental chunk-based backups, local-only processing, multiple cryptographic strategies, integrity checks, cross-platform archives, automated tests and self-contained builds for Windows, Linux and macOS.
       </p>
     </td>
-    <td width="42%">
+    <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/BackupZCrypt">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=BackupZCrypt&theme=github_dark&hide_border=true" alt="BackupZCrypt repository card" />
       </a>
     </td>
   </tr>
+
   <tr>
-    <td width="58%">
+    <td width="58%" valign="top">
       <h3><a href="https://github.com/hidden-space-xyz/ToxicFishing">🎣 ToxicFishing</a></h3>
       <p>
-        Lightweight desktop application built with C# and WPF that automates World of Warcraft fishing, based on screen detection and input automation.
+        Windows desktop automation project for World of Warcraft fishing, combining computer vision, audio analysis and standard operating-system input.
       </p>
       <p>
-        It is more experimental, but shows work with modular C# projects, computer vision concepts, activity tracking, audio/input handling and automation logic.
+        The application locates the fishing bobber on screen using OpenCV and detects bites from the game's audio session. A modular fishing loop coordinates vision, audio and input while the desktop UI exposes configuration, session controls and live activity information.
       </p>
       <p>
-        <strong>Focus:</strong> screen analysis, automation loops, input simulation, humanized interaction patterns and project modularization.
+        <strong>Stack:</strong> C#, .NET 10, WPF, OpenCV/OpenCvSharp, WASAPI/NAudio and Win32 input.
+      </p>
+      <p>
+        <strong>Highlights:</strong> modular application design, full-screen bobber detection, HSV and template matching, sound-based bite detection, activity reporting, configurable sessions and automated testing — without injecting code into the game or reading its process memory.
+      </p>
+      <p>
+        <em>Game automation may violate the rules or Terms of Service of some servers. The project should only be used where automation is permitted.</em>
       </p>
     </td>
-    <td width="42%">
+    <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/ToxicFishing">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=ToxicFishing&theme=github_dark&hide_border=true" alt="ToxicFishing repository card" />
       </a>
@@ -154,9 +168,11 @@ I care about building projects that are easy to understand, easy to run and sust
 
 # 🤝 Open to collaboration
 
-I'm always open to collaborating on thoughtful projects, especially around privacy, free software, self-hostable systems, and software that’s built with care for the long term.
+I'm open to contributing to thoughtful projects, particularly around privacy, free software, self-hostable infrastructure and software intended to remain maintainable over the long term.
 
-Whether that means contributing to an existing project, pairing on something new, or helping an open source effort that could use an extra pair of hands, feel free to open an issue or discussion in any of my repositories, or reach out through my GitHub profile if you think we could build something useful together.
+That could mean contributing to an existing project, collaborating on something new or helping an open-source project that could benefit from another pair of hands.
+
+If something I'm working on interests you, feel free to open an issue or discussion in one of my repositories or reach out through my GitHub profile.
 
 <div align="center">
 
