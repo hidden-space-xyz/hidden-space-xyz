@@ -19,9 +19,9 @@
 
 # 🧑‍💻 About me
 
-I'm a developer focused on building useful, maintainable and self-hostable software, with a particular interest in privacy, security and FOSS software.
+I'm a developer focused on building useful, maintainable and self-hostable software, with a particular interest in privacy, security and FOSS.
 
-Most of my work spans the full stack: ASP.NET Core, Entity Framework Core and PostgreSQL on the backend; Vue 3, TypeScript and Vite on the frontend; and Docker and nginx for deployment.
+Most of my work spans the full stack: ASP.NET Core and PostgreSQL on the backend, Vue 3 and TypeScript on the frontend, and Docker and nginx for deployment.
 
 I enjoy working across those boundaries rather than treating them as completely separate disciplines. I care about understandable architecture, readable code, reproducible environments, sensible defaults and keeping complexity proportional to the problem being solved.
 
@@ -59,19 +59,21 @@ I enjoy working across those boundaries rather than treating them as completely 
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=hidden-space-xyz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hidden-space-xyz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://img.shields.io/badge/Backend-.NET%20(C%23)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend: .NET (C#)" />
+<img src="https://img.shields.io/badge/Frontend-Vue%203%20(TypeScript)-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Frontend: Vue 3 (TypeScript)" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database: PostgreSQL" />
+<br />
+<img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Deployment: Docker" />
+<img src="https://img.shields.io/badge/Reverse%20Proxy-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Reverse proxy: nginx" />
 
 </div>
 
+<br />
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-.NET%20(C%23)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Frontend-Vue%203%20(TypeScript)-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<br />
-<img src="https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Reverse%20Proxy-nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hidden-space-xyz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hidden-space-xyz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 
 </div>
 
@@ -90,7 +92,7 @@ I enjoy working across those boundaries rather than treating them as completely 
         The project combines a public website with member accounts and an administrative back-office. It handles events and activities, registrations, dependent minors, participation history, ratings, certificates, announcements, resources, partners, member communication and administrative workflows.
       </p>
       <p>
-        <strong>Stack:</strong> ASP.NET Core on .NET 10, Entity Framework Core, PostgreSQL, Vue 3, TypeScript, Vite, Element Plus, TanStack Query, Vue I18n, TipTap, Chart.js, Orval, Docker and nginx.
+        <strong>Stack:</strong> C#, .NET 10, Vue 3, TypeScript, PostgreSQL and Docker.
       </p>
     </td>
     <td width="42%" valign="middle">
@@ -110,32 +112,12 @@ I enjoy working across those boundaries rather than treating them as completely 
         Files are divided into content-defined chunks, allowing subsequent backups to process only data that has changed. Backups support authenticated encryption, configurable key derivation, optional compression, integrity verification and portable restores across supported operating systems.
       </p>
       <p>
-        <strong>Stack:</strong> C#, .NET 10 and Avalonia, with FastCDC-style content-defined chunking, authenticated encryption algorithms, Argon2id/Scrypt/PBKDF2 key derivation and Zstandard compression.
+        <strong>Stack:</strong> C#, .NET 10 and Avalonia.
       </p>
     </td>
     <td width="42%" valign="middle">
       <a href="https://github.com/hidden-space-xyz/BackupZCrypt">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=BackupZCrypt&theme=github_dark&hide_border=true" alt="BackupZCrypt repository card" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/hidden-space-xyz/ToxicFishing">🎣 ToxicFishing</a></h3>
-      <p>
-        Windows desktop automation project for World of Warcraft fishing, combining computer vision, audio analysis and standard operating-system input.
-      </p>
-      <p>
-        The application locates the fishing bobber on screen using OpenCV and detects bites from the game's audio session. A modular fishing loop coordinates vision, audio and input while the desktop UI exposes configuration, session controls and live activity information.
-      </p>
-      <p>
-        <strong>Stack:</strong> C#, .NET 10, WPF, OpenCV/OpenCvSharp, WASAPI/NAudio and Win32 input.
-      </p>
-    </td>
-    <td width="42%" valign="middle">
-      <a href="https://github.com/hidden-space-xyz/ToxicFishing">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=ToxicFishing&theme=github_dark&hide_border=true" alt="ToxicFishing repository card" />
       </a>
     </td>
   </tr>
@@ -145,11 +127,9 @@ I enjoy working across those boundaries rather than treating them as completely 
 
 # 🤝 Open to collaboration
 
-I'm open to contributing to thoughtful projects.
+I'm open to collaborating on thoughtful projects, whether that means contributing to an existing open-source project that could use another pair of hands or building something new together.
 
-That could mean contributing to an existing project, collaborating on something new or helping an open-source project that could benefit from another pair of hands.
-
-If something I'm working on interests you, feel free to open an issue or discussion in one of my repositories or reach out through my GitHub profile.
+If something I'm working on interests you, feel free to open an issue or start a discussion in any of my repositories.
 
 <div align="center">
 
