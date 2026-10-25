@@ -83,8 +83,13 @@ I enjoy working across those boundaries rather than treating them as completely 
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/hidden-space-xyz/CodigoActivo">🌐 CodigoActivo</a></h3>
+      <p>
+        <a href="https://github.com/hidden-space-xyz/CodigoActivo/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=License&color=8B5CF6&logo=gnu&logoColor=white" alt="License" /></a>
+        <a href="https://github.com/hidden-space-xyz/CodigoActivo/releases/latest"><img src="https://img.shields.io/github/v/release/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=Release&color=1F6FEB&logo=github&logoColor=white" alt="Latest release" /></a>
+        <a href="https://github.com/hidden-space-xyz/CodigoActivo/commits"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
+      </p>
       <p>
         Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association in León that introduces children and young people to programming and computational thinking.
       </p>
@@ -95,16 +100,18 @@ I enjoy working across those boundaries rather than treating them as completely 
         <strong>Stack:</strong> C#, .NET 10, Vue 3, TypeScript, PostgreSQL and Docker.
       </p>
     </td>
-    <td width="42%" valign="middle">
-      <a href="https://github.com/hidden-space-xyz/CodigoActivo">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=CodigoActivo&theme=github_dark&hide_border=true" alt="CodigoActivo repository card" />
-      </a>
-    </td>
   </tr>
+</table>
 
+<table>
   <tr>
-    <td width="58%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/hidden-space-xyz/BackupZCrypt">🔐 BackupZCrypt</a></h3>
+      <p>
+        <a href="https://github.com/hidden-space-xyz/BackupZCrypt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=License&color=8B5CF6&logo=gnu&logoColor=white" alt="License" /></a>
+        <a href="https://github.com/hidden-space-xyz/BackupZCrypt/releases/latest"><img src="https://img.shields.io/github/v/release/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=Release&color=1F6FEB&logo=github&logoColor=white" alt="Latest release" /></a>
+        <a href="https://github.com/hidden-space-xyz/BackupZCrypt/commits"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
+      </p>
       <p>
         Cross-platform encrypted backup application designed around efficient, incremental and local-first data protection.
       </p>
@@ -114,11 +121,6 @@ I enjoy working across those boundaries rather than treating them as completely 
       <p>
         <strong>Stack:</strong> C#, .NET 10 and Avalonia.
       </p>
-    </td>
-    <td width="42%" valign="middle">
-      <a href="https://github.com/hidden-space-xyz/BackupZCrypt">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hidden-space-xyz&repo=BackupZCrypt&theme=github_dark&hide_border=true" alt="BackupZCrypt repository card" />
-      </a>
     </td>
   </tr>
 </table>
