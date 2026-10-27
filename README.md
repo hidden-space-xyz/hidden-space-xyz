@@ -88,7 +88,7 @@ I enjoy working across those boundaries rather than treating them as completely 
       <p>
         <a href="https://github.com/hidden-space-xyz/CodigoActivo/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=License&color=8B5CF6&logo=gnu&logoColor=white" alt="License" /></a>
         <a href="https://github.com/hidden-space-xyz/CodigoActivo/releases/latest"><img src="https://img.shields.io/github/v/release/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=Release&color=1F6FEB&logo=github&logoColor=white" alt="Latest release" /></a>
-        <a href="https://github.com/hidden-space-xyz/CodigoActivo/commits"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/CodigoActivo?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
+        <a href="https://github.com/hidden-space-xyz/CodigoActivo/commits/develop"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/CodigoActivo/develop?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
       </p>
       <p>
         Full-stack web platform for <strong>&lt;Codigoactivo/&gt;</strong>, a nonprofit association in León that introduces children and young people to programming and computational thinking.
@@ -110,7 +110,7 @@ I enjoy working across those boundaries rather than treating them as completely 
       <p>
         <a href="https://github.com/hidden-space-xyz/BackupZCrypt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=License&color=8B5CF6&logo=gnu&logoColor=white" alt="License" /></a>
         <a href="https://github.com/hidden-space-xyz/BackupZCrypt/releases/latest"><img src="https://img.shields.io/github/v/release/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=Release&color=1F6FEB&logo=github&logoColor=white" alt="Latest release" /></a>
-        <a href="https://github.com/hidden-space-xyz/BackupZCrypt/commits"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/BackupZCrypt?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
+        <a href="https://github.com/hidden-space-xyz/BackupZCrypt/commits/develop"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/BackupZCrypt/develop?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
       </p>
       <p>
         Cross-platform encrypted backup application designed around efficient, incremental and local-first data protection.
