@@ -125,6 +125,28 @@ I enjoy working across those boundaries rather than treating them as completely 
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/hidden-space-xyz/Qrypt">💻 Qrypt</a></h3>
+      <p>
+        <a href="https://github.com/hidden-space-xyz/Qrypt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hidden-space-xyz/Qrypt?style=for-the-badge&label=License&color=8B5CF6&logo=gnu&logoColor=white" alt="License" /></a>
+        <a href="https://github.com/hidden-space-xyz/Qrypt/blob/master/themes/qrypt/theme.json"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhidden-space-xyz%2FQrypt%2Fmaster%2Fthemes%2Fqrypt%2Ftheme.json&query=%24.version&prefix=v&style=for-the-badge&label=Version&color=1F6FEB&logo=github&logoColor=white" alt="Version" /></a>
+        <a href="https://github.com/hidden-space-xyz/Qrypt/commits/master"><img src="https://img.shields.io/github/last-commit/hidden-space-xyz/Qrypt/master?style=for-the-badge&label=Last%20commit&color=24292F&logo=git&logoColor=white" alt="Last commit" /></a>
+      </p>
+      <p>
+        Code-focused theme for <a href="https://github.com/degoog-org/degoog">degoog</a> that gives search pages the look of a code editor, in light and dark.
+      </p>
+      <p>
+        It brings monospace type using only the fonts already on the device, an editor palette where titles read like functions and URLs like strings, a terminal-style prompt with a blinking caret, line-numbered results and five selectable accents. Nothing is loaded from third parties.
+      </p>
+      <p>
+        <strong>Stack:</strong> HTML and CSS.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br />
 
 # 🤝 Open to collaboration
